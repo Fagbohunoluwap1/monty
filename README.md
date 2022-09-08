@@ -63,4 +63,4 @@ builders.c  helper.c   hsh          README.md  test
 ```
 
 ### Authors
-[Fagbohun Oluwapelumi](https://github.com/Fagbohunoluwap1) and [Faith Ariwaodo]
+[Fagbohun Oluwapelumi](https://github.com/Fagbohunoluwap1) and [Faith Ariwaodo](https://github.com/fayeariwaodo)
